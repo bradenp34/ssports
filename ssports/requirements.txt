@@ -13,7 +13,7 @@ jinja2-time==0.2.0
 MarkupSafe==1.0
 olefile==0.44
 pew==0.1.26
-Pillow==4.2.1
+Pillow==6.2.0
 pip-tools==1.9.0
 pipenv==7.7.9
 poyo==0.4.1
